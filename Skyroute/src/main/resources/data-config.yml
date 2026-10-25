@@ -1,5 +1,5 @@
 dataconfig:
-  db-url: jdbc:oracle:thin:@211.238.142.200:1521:xe #211.238.142.200
-  db-username: cteam02 #cteam02
-  db-password: a1234
-  rememberme-key: hayden
+  db-url: jdbc:oracle:thin:@localhost:1521:xe
+  db-username: YOUR_USERNAME
+  db-password: YOUR_PASSWORD
+  rememberme-key: YOUR_KEY
