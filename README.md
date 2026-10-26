@@ -2,6 +2,11 @@
 
 > 항공권 예매부터 운항 관리, 체크인·탑승까지 하나로 연결한 항공사 통합 웹 서비스
 
+[![체험용 데모 바로가기](https://img.shields.io/badge/✈️_체험용_데모_바로가기-0064FF?style=for-the-badge)](https://jinminseok.github.io/skyroute/)
+
+💡 **[데모 사이트](https://jinminseok.github.io/skyroute/)** 에서 로그인 없이 비회원 · 회원 · 지상직 · 관리자 화면을 직접 눌러볼 수 있습니다.
+데모는 화면 흐름을 보여주기 위한 **정적 버전**이며, 실제 서비스는 Spring Boot + Oracle 기반으로 구현했습니다.
+
 ---
 
 ## 📌 프로젝트 소개
